@@ -42,4 +42,7 @@ a.hover-1:hover {
     transform: translateY(-10px);
 }
 
-.
+html, body {
+    overflow-x: hidden; /* Ýanbasma süýşme (horizontal scroll) aýyrmak */
+    width: 100%;
+}
